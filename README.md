@@ -1,11 +1,53 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Sancheet!;Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor&center=true&size=22)](https://git.io/typing-svg)
+### Hi there, I'm **Sancheet**! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Cool+Projects!)](https://git.io/typing-svg)
+
+---
+
+### 🚀 **About Me**
+- 🧑‍💻 I’m a **Computer Science Engineer** & Open Source Contributor.
+- 🔭 Currently working on **AI-powered applications & Web Projects**.
+- 🌱 Exploring **Blockchain, AI, and Full-Stack Development**.
+- 💡 Passionate about **Tech, Startups, and Innovation**.
+- 💬 Ask me about **Web Dev, AI, APIs, and Automation**!
+- 🎯 Goal: **Build impactful software solutions.**
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sancheet230&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sancheet230&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancheet230&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 📈 **GitHub Activity Graph**
 
 ![Sanchett's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sancheet230&theme=github-dark)
 
-![Metrics](https://github.com/sancheet230/sancheet230/blob/main/github-metrics.svg)
+---
 
-![Jokes](https://readme-jokes.vercel.app/api)
+### 🐍 **Contribution Snake**
+
+![Snake animation](https://github.com/sancheet230/sancheet230/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🛠 **Tech Stack & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,java,cpp,html,css,tailwind,bootstrap,mysql,mongodb,firebase,linux,git,github,figma,vercel,docker" />
+</p>
+
+---
+
+
+🔥 **Let's build something amazing together!** 🚀
+
 
 
 
