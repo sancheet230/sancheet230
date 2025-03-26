@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-![Sanchett's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchett-B&show_icons=true&theme=radical)
+![Sanchett's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanchett-B&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchett-B&layout=compact&theme=radical)
+![Metrics](https://github.com/Sanchett-B/Sanchett-B/blob/main/github-metrics.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sanchett-B&theme=radical)
+![Jokes](https://readme-jokes.vercel.app/api)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchett-B&show_icons=true&theme=dark&count_private=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Sanchett!;Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor&center=true&size=22)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanchett-B&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 
