@@ -1,12 +1,12 @@
-## Hi there 👋
 
-![Sanchett's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanchett-B&theme=github-dark)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Sancheet!;Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor&center=true&size=22)](https://git.io/typing-svg)
 
-![Metrics](https://github.com/Sanchett-B/Sanchett-B/blob/main/github-metrics.svg)
+![Sanchett's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sancheet230&theme=github-dark)
+
+![Metrics](https://github.com/sancheet230/sancheet230/blob/main/github-metrics.svg)
 
 ![Jokes](https://readme-jokes.vercel.app/api)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Sanchett!;Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor&center=true&size=22)](https://git.io/typing-svg)
 
 
 
