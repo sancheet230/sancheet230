@@ -1,18 +1,6 @@
 
 ### Hi there, I'm **Sancheet**! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Cool+Projects!)](https://git.io/typing-svg)
-
----
-
-### 🚀 **About Me**
-- 🧑‍💻 I’m a **Computer Science Student** & Open Source Contributor.
-- 🔭 Currently working on **AI-powered applications & Web Projects & Operating Syatems**.
-- 🌱 Exploring **Blockchain, AI, OS and Full-Stack Development**.
-- 💡 Passionate about **Tech, Startups, and Innovation**.
-- 💬 Ask me about **Web Dev, AI, APIs, OS and Automation**!
-- 🎯 Goal: **Build impactful software solutions.**
-
 ---
 
 ### 📊 **GitHub Stats**
@@ -21,12 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sancheet230&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sancheet230&theme=radical" alt="GitHub Streak"/>
 </p>
-
----
-
-### 📈 **GitHub Activity Graph**
-
-![Sanchett's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sancheet230&theme=github-dark)
 
 
 ---
