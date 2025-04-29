@@ -11,15 +11,7 @@
 </p>
 
 
----
 
-### 🛠 **Tech Stack & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,java,cpp,html,css,tailwind,bootstrap,mysql,mongodb,firebase,linux,git,github,figma,vercel,docker" />
-</p>
-
----
 
 
 
