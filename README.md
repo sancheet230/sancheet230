@@ -1,5 +1,5 @@
 
-### Hi there, I'm **Sancheet**! 👋
+### Hi there, I'm **Sancheet**
 
 ---
 
