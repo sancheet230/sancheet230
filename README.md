@@ -3,14 +3,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sancheet230&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sancheet230&theme=radical" alt="GitHub Streak"/>
-</p>
-
-
+I'm a dedicated Computer Science student passionate about building impactful tech. I believe in learning by doing, contributing to open-source, and continuously improving my skills
 
 
 
